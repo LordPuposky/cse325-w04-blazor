@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/01-FormsValidation/">
+    <Project Path="01-FormsValidation/BlazingPizza/BlazingPizza.csproj" />
+  </Folder>
 </Solution>
