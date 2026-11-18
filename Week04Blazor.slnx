@@ -2,4 +2,8 @@
   <Folder Name="/01-FormsValidation/">
     <Project Path="01-FormsValidation/BlazingPizza/BlazingPizza.csproj" />
   </Folder>
+  <Folder Name="/02-ReusableComponents/">
+    <Project Path="02-ReusableComponents/FirstClassLibrary/FirstClassLibrary.csproj" />
+    <Project Path="02-ReusableComponents/MyBlazorApp/MyBlazorApp.csproj" />
+  </Folder>
 </Solution>
